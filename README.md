@@ -1,2 +1,2 @@
-# KNN_Classification_with_Orthopedic_Diseases
+# KNN Classification with Orthopedic Diseases
 KNN Classification with Orthopedic Diseases
